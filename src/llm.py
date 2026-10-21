@@ -21,8 +21,7 @@ def crear_llm():
         )
 
     llm = ChatGoogleGenerativeAI(
-        model="gemini-3.8-flash",
-        temperature=0,
+        model="gemini-3.5-flash-lite",
         max_retries=0,
     )
 
