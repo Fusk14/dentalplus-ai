@@ -1,0 +1,4 @@
+﻿tratamiento_id,nombre,especialidad_id,precio_clp,duracion_min
+1,Evaluación dental,1,20000,30
+2,Limpieza dental,2,35000,45
+3,Evaluación de endodoncia,3,30000,30

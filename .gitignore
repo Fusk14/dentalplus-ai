@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+
+# Credenciales privadas
+.env
+.env.*
+!.env.example
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Base de datos local
+data/database/*.db
+data/database/*.db-journal
+data/database/*.db-wal
+data/database/*.db-shm
+
+# Indice vectorial generado
+data/vectorstore/*

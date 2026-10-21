@@ -1,0 +1,30 @@
+# DentalPlus AI - Dependencias del proyecto
+
+# Variables de entorno
+python-dotenv
+
+# Analisis y manipulacion de datos
+pandas
+
+# Notebooks y kernel de Jupyter
+jupyter
+ipykernel
+
+# Framework de inteligencia artificial
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+
+# Integracion con Gemini
+langchain-google-genai
+
+# Embeddings locales
+sentence-transformers
+
+# Base de datos vectorial
+faiss-cpu
+
+# Modelo y utilidades numericas
+numpy
